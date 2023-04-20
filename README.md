@@ -1,4 +1,5 @@
-### Hi there 👋, This is Chandan D. Chaudhari
+## CHANDAN D. CHAUDHARI
+### ME [CAD/CAM & Robotics]
  
 I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries. 
 
