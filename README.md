@@ -1,13 +1,25 @@
+### Hi there 👋, CHANDAN CHAUDHARI
+#### DESIGN & DEVELOPMENT 
+I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries. 
 
-## Hey 👋, This is CHANDAN CHAUDHARI
-[![Gmail Badge](https://img.shields.io/badge/-chaudhari.chandan22@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaudhari.chandan22@gmail.com)](mailto:chaudhari.chandan22@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-chandanchaudhari-746021style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchaudhari-746021/)](https://www.linkedin.com/in/chandanchaudhari-746021/) [![Github Badge](https://img.shields.io/badge/-chandanc5525-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chandanc5525/)](https://www.github.com/chandanc5525/) <p align='left'>I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=chandanc5525 alt=chandanc5525 /> </p>
+Skills: Python Programming, Machine Learning, Deep Learning, SQL, Tableau, IOT, Matlab Programming, SPSS, JASP
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&include_all_commits=true)](https://github.com/chandanc5525/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanc5525&layout=compact)](https://github.com/chandanc5525/github-readme-stats)
+- 🌱 I’m currently learning Natural Language Processing  
+- 💬 Ask me about Machine Learning, IOT, SQL, Python  
+- 📫 How to reach me: chaudhari.chandan22@gmail.com 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandanc5525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chandan-chaudhari-7460215a//)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chandanc5525)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chandanc5525)  
+
+![Profile views](https://gpvc.arturio.dev/chandanc5525)  
 
 
 
