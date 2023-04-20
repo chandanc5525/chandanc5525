@@ -1,5 +1,5 @@
-### Hi there 👋, CHANDAN CHAUDHARI
-#### DESIGN & DEVELOPMENT 
+### Hi there 👋, This is Chandan D. Chaudhari
+ 
 I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries. 
 
 Skills: Python Programming, Machine Learning, Deep Learning, SQL, Tableau, IOT, Matlab Programming, SPSS, JASP
@@ -21,6 +21,3 @@ Skills: Python Programming, Machine Learning, Deep Learning, SQL, Tableau, IOT, 
 
 ![Profile views](https://gpvc.arturio.dev/chandanc5525)  
 
-
-
-![Chandan D.Chaudhari GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true)
