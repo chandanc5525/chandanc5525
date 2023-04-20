@@ -1,9 +1,12 @@
 ## CHANDAN D. CHAUDHARI
 ### ME [CAD/CAM & Robotics]
+### ABOUT ME:
  
 I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries. 
 
-Skills: Python Programming, Machine Learning, Deep Learning, SQL, Tableau, IOT, Matlab Programming, SPSS, JASP
+### SKILLS:
+1. Python Programming
+2. Machine Learning, Deep Learning, SQL, Tableau, IOT, Matlab Programming, SPSS, JASP
 
 - 🌱 I’m currently learning Natural Language Processing  
 - 💬 Ask me about Machine Learning, IOT, SQL, Python  
