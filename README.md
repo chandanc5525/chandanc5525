@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Chandan D.Chaudhari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -18,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-chaudhari-7460215a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-chaudhari-7460215a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandan-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-chaudhari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&locale=en" alt="chandanc5525" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanc5525&" alt="chandanc5525" /></p>
+
 
 
 
