@@ -2,7 +2,7 @@
 ### ME [CAD/CAM & Robotics]
 ### ABOUT ME:
  
-I am Working as Assistant Professor with a passion for technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries. 
+I am Passinate with technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries Consulting. 
 
 ## SKILLS:
 1. Python Programming
