@@ -18,10 +18,10 @@ I am Passinate with technology and programming. I enjoy contributing to open-sou
 
 ## PROJECTS & ACHIVEMENTS:
 
-1. Developed an End to End Machine Learning Model for Predicting Compressive Strength of Cement Composite Mixture.
-2. Developed A Prototype Model for Bearing Fault Detection and Experimental Data is then Investigated using Machine Learning Model for Bearing Fault Detection.
-3. Developed an End to End Machine Learning Model for Heart Stroke Prediction.
-4. Developed an End to End MAchine Learning Model for Multi Criteria Decision Technique for Industrial Decision Making Problems.
+#### 1. Developed an End to End Machine Learning Model for Predicting Compressive Strength of Cement Composite Mixture.
+#### 2. Developed A Prototype Model for Bearing Fault Detection and Experimental Data is then Investigated using Machine Learning Model for Bearing Fault Detection.
+#### 3. Developed an End to End Machine Learning Model for Heart Stroke Prediction.
+#### 4. Developed an End to End MAchine Learning Model for Multi Criteria Decision Technique for Industrial Decision Making Problems.
 
 ## RESEARCH PAPER PUBLICATION:
 
