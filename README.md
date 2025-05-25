@@ -53,23 +53,6 @@ I am Passinate with technology and programming. I enjoy contributing to open-sou
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhari.chandan22@gmaail.com)
   
 </div>
-
-
-
------
-
-
- <br>
- <br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
-  
- 
- 
  
 ----------------
 
@@ -79,15 +62,6 @@ I am Passinate with technology and programming. I enjoy contributing to open-sou
   
 </div>
 
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chandanc5525)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chandanc5525)  
 
 ![Profile views](https://gpvc.arturio.dev/chandanc5525)  
 
