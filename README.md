@@ -7,34 +7,22 @@
 I am Passinate with technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries Consulting. 
 
 ## SKILLS:
-1. Python Programming
-2. Machine Learning & Deep Learning
-3. SQL
-4. Tableau & Power-BI
-5. IOT 
-6. Matlab Programming
-7. SPSS
-8. JASP
-
-
-## PROJECTS & ACHIVEMENTS:
-
-#### 1. Developed an End to End Machine Learning Model for Predicting Compressive Strength of Cement Composite Mixture.
-#### 2. Developed A Prototype Model for Bearing Fault Detection and Experimental Data is then Investigated using Machine Learning Model for Bearing Fault Detection.
-#### 3. Developed an End to End Machine Learning Model for Heart Stroke Prediction.
-#### 4. Developed an End to End MAchine Learning Model for Multi Criteria Decision Technique for Industrial Decision Making Problems.
-
-## RESEARCH PAPER PUBLICATION:
-
-#### 1. Received Best Research Paper Award For The Paper Title "The Effect of Lean Green Six Sigma Practices on Organizational Performance : A Machine Learning Approach"  at 7th International Conference on Production and Industrial Engineering held on 12th March 2023 at NIT,Jalandar,Punjab,India.
-#### 2. "Comparative Study Between Conventional Methods and Computer Vision Aided by Fiducial Markers for Dimensional Analysis of Simple Mechanical Components"  at 1st International Conference on Recent Trends in Multidisplinery Research & Innovation on 17-18th March 2023 at LTCOE,Mumbai,India
-
-
-## MORE ABOUT ME:
-- 🌱 I’m currently learning Natural Language Processing  
-- 💬 Ask me about Machine Learning, IOT, SQL, Python,Tableau,Matlab Programming,JASP   
-- 📫 How to reach me: chaudhari.chandan22@gmail.com 
-
+1. CODING SKILLS:
+    - Python Pogramming
+    - R Programming
+    - MySQL, Postgress, Mariadb, Oracle Apps
+    - Matlab Programming
+    - Spss & Amos
+2. DATA VISUALIZATION & DASHBOARDING
+    - PowerBI
+    - Tableau
+    - Google Looker
+    - OriginPro 
+3. AI & ML
+    - End To End Deployment Models
+    - CI CD Integraton Pipelines for ML Models
+    - AI Models Deployment 
+   
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandanc5525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chandan-chaudhari-7460215a//)  
 
