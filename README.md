@@ -63,5 +63,3 @@ I am Passinate with technology and programming. I enjoy contributing to open-sou
 </div>
 
 
-![Profile views](https://gpvc.arturio.dev/chandanc5525)  
-
