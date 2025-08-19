@@ -33,50 +33,48 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 
 ### ⚡ Tech Stack & Weaponry
 
-**🤖 AI / Machine Learning**
+**🤖 AI / Machine Learning & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-flat&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-flat&logo=opencv&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-flat&logo=mathworks&logoColor=white)
 
-**📊 Data Visualization & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-flat&logo=powerbi&logoColor=black)
+**📊 Dashboarding & Data Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-flat&logo=tableau&logoColor=white)
-![G Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-flat&logo=looker&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-flat)
+![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-flat&logo=looker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-flat&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-flat&logo=dash&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0%2C%20112%2C%20192?style=for-the-flat)
 
-**🗄️ Databases & Deployment**
+**📶 Statistical Analysis & Tools**
+![SPSS](https://img.shields.io/badge/SPSS-100000?style=for-the-flat&logo=ibm&logoColor=white)
+![AMOS](https://img.shields.io/badge/AMOS-SEM-009999?style=for-the-flat)
+![Minitab](https://img.shields.io/badge/Minitab-2F5C85?style=for-the-flat)
+![JMP](https://img.shields.io/badge/JMP-FF6600?style=for-the-flat&logo=sas&logoColor=white)
+![OriginPro](https://img.shields.io/badge/OriginPro-FF9E0B?style=for-the-flat)
+
+**🗄️ Databases & Data Engineering**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-flat&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-flat&logo=mariadb&logoColor=white)
+
+**🚀 Deployment & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-flat&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-flat&logo=github-actions&logoColor=white)
 
-**⚙️ Engineering & Analysis**
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-flat&logo=mathworks&logoColor=white)
+**⚙️ Engineering & Design**
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-80A5D6?style=for-the-flat&logo=dassault-systemes&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-100000?style=for-the-flat)
-![OriginPro](https://img.shields.io/badge/OriginPro-100000?style=for-the-flat)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-flat)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-flat&logo=autodesk&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-flat&logo=ansys&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-flat&logo=ros&logoColor=white)
 
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-**Open to collaborating on innovative projects and discussions.**
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40">](mailto:chaudhari.chandan22@gmail.com)
-[<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio-link-here.com)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=00BFFF&label=PROFILE+VISITORS" alt="Profile Views"/>
-</p>
