@@ -1,53 +1,74 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-# CHANDAN D. CHAUDHARI
-### - Mtech [CAD/CAM & Robotics]
-### - BE [Mechanical Engineering]
-### ABOUT ME:
- 
-I am Passinate with technology and programming. I enjoy contributing to open-source projects on Github and Tech Industries Consulting. 
+# Chandan D. Chaudhari
+**M.Tech (CAD/CAM & Robotics) | Mechanical Engineer | Data Scientist & AI Enthusiast**
 
-## SKILLS:
-1. CODING SKILLS:
-    - Python Pogramming
-    - R Programming
-    - MySQL, Postgress, Mariadb, Oracle Apps
-    - Matlab Programming
-    - Spss & Amos
-2. DATA VISUALIZATION & DASHBOARDING
-    - PowerBI
-    - Tableau
-    - Google Looker
-    - OriginPro 
-3. AI & ML
-    - End To End Deployment Models
-    - CI CD Integraton Pipelines for ML Models
-    - AI Models Deployment 
-   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:chaudhari.chandan22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/chandanc5525)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandanc5525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chandan-chaudhari-7460215a//)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 👨‍💻 About Me
 
+I am a passionate engineer with a strong foundation in Mechanical Engineering and advanced expertise in CAD/CAM, Robotics, and Data Science. I thrive on leveraging technology to solve complex problems and am particularly interested in the end-to-end development and deployment of intelligent systems. I actively contribute to open-source projects and enjoy the challenges of tech consulting in dynamic industries.
 
+- 🔭 I’m currently working on **deploying scalable ML models with CI/CD pipelines**.
+- 🌱 I’m continuously exploring **Advanced AI techniques and MLOps**.
+- 👯 I’m looking to collaborate on **innovative AI/ML and Robotics projects**.
+- 💬 Ask me about **Python, Data Visualization, SQL, or Mechanical Simulation**.
+- ⚡ Fun fact: I can bridge the gap between physical mechanical systems and digital AI models.
 
-</br>
+---
 
-<h2 align="left">Connect With Me:</h2>
+### 🛠️ Technical Skills
 
-<div align=center>
+**Programming & Databases:**
+- **Languages:** Python, R, MATLAB
+- **Databases:** MySQL, PostgreSQL, MariaDB, Oracle Apps
+- **Tools:** SPSS, Amos, OriginPro
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanc5525)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhari.chandan22@gmaail.com)
-  
-</div>
- 
-----------------
+**Data Visualization & BI:**
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-flat&logo=tableau&logoColor=white)
+![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-flat&logo=looker&logoColor=white)
 
-<div align=center>
+**AI/ML & Cloud:**
+- End-to-End ML Model Deployment
+- CI/CD Integration for ML Pipelines (Azure DevOps, GitHub Actions)
+- Cloud Platforms: AWS, GCP, Azure (Familiar)
 
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
+**Engineering & Design:**
+- CAD/CAM Software (SolidWorks, CATIA, AutoCAD)
+- Robotics & Automation Systems
+- Finite Element Analysis (FEA)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&theme=radical&hide_border=true" alt="Chandan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanc5525&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanc5525&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- 📧 **Email:** [chaudhari.chandan22@gmail.com](mailto:chaudhari.chandan22@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
+- 🐙 **GitHub:** [chandanc5525](https://github.com/chandanc5525)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
