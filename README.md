@@ -1,9 +1,9 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=435&lines=Chandan+D.+Chaudhari;M.Tech+CAD%2FCAM+%26+Robotics;AI+Engineer+%7C+Data+Scientist;Mechanical+Design+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=435&lines=Chandan+D.+Chaudhari;M.Tech+CAD%2FCAM+%26+Robotics;AI+%7C+ML+Engineer;Data+Science+Professional" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif" alt="Hi-Tech Dino" width="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*eTg3araLLlU1QL6C6hJg5w.gif" alt="Data Science Gif" width="700"/>
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-<img src="https://github.com/chandanc5525/chandanc5525/assets/placeholder/ai-chip.gif" align="right" alt="Coding" width="400"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 
 I am a **Multidisciplinary Engineer** operating at the convergence of the physical and digital worlds. My expertise lies in transforming complex mechanical and operational challenges into data-driven, intelligent solutions powered by AI and robust software architecture.
 
@@ -39,54 +39,44 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-flat&logo=opencv&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-flat&logo=r&logoColor=white)
 
 **📊 Data Visualization & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-flat&logo=tableau&logoColor=white)
 ![G Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-flat&logo=looker&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-flat&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-0%2C%20112%2C%20192?style=for-the-flat)
 
-**🗄️ Databases & Cloud**
+**🗄️ Databases & Deployment**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-flat&logo=streamlit&logoColor=white)
 
-**⚙️ Engineering & Simulation**
+**⚙️ Engineering & Analysis**
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-flat&logo=mathworks&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-80A5D6?style=for-the-flat&logo=dassault-systemes&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-flat&logo=ansys&logoColor=black)
+![SPSS](https://img.shields.io/badge/SPSS-100000?style=for-the-flat)
+![OriginPro](https://img.shields.io/badge/OriginPro-100000?style=for-the-flat)
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandanc5525&show_icons=true&hide_border=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanc5525&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanc5525&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
-</p>
-
----
-
-### 📫 Cyber Interface
+### 📫 Let's Connect
 
 <div align="center">
 
-**Initiate Connection Protocol:**<br>
+**Open to collaborating on innovative projects and discussions.**
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40">](mailto:chaudhari.chandan22@gmail.com)
-[<img src="https://img.icons8.com/ios-glyphs/48/39FF14/terminal.png" alt="Portfolio" height="40">](https://your-portfolio-link-here.com)
+[<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio-link-here.com)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=39FF14&label=PROFILE+TRAFFIC" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=00BFFF&label=PROFILE+VISITORS" alt="Profile Views"/>
 </p>
