@@ -32,21 +32,25 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ---
 
 ### 📊 Project & Learning Management
+Adept at orchestrating the full project lifecycle for complex technical initiatives, from strategic conception to successful deployment, while simultaneously cultivating high-performing teams through targeted learning and development programs.
 
-**I excel at leading technical projects from ideation to delivery and fostering team growth through structured learning.**
+Project Management Methodologies & Tools:
+https://img.shields.io/badge/Agile-0D8E81?style=for-the-flat&logo=agile&logoColor=white
+https://img.shields.io/badge/Scrum-6DB33F?style=for-the-flat&logo=scrum&logoColor=white
+https://img.shields.io/badge/JIRA-0052CC?style=for-the-flat&logo=jira&logoColor=white
+https://img.shields.io/badge/Confluence-172B4D?style=for-the-flat&logo=confluence&logoColor=white
+https://img.shields.io/badge/MS_Project-00A4EF?style=for-the-flat&logo=microsoftproject&logoColor=white
 
-**Project Management:**
-![Agile](https://img.shields.io/badge/Agile-0D8E81?style=for-the-flat&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-flat&logo=scrum&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-flat&logo=confluence&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-00A4EF?style=for-the-flat&logo=microsoftproject&logoColor=white)
+Learning & Development (L&D) Leadership:
 
-**Learning & Development (L&D):**
-*   **Instructional Design:** Development of technical training curricula and upskilling programs for data and engineering teams.
-*   **LMS Expertise:** Administration and content management of Learning Management Systems (LMS) like **Moodle, Cornerstone OnDemand, Docebo**.
-*   **Mentorship:** Guiding junior data scientists and engineers on best practices in coding, model development, and deployment.
-*   **Knowledge Sharing:** Creating documentation, workshops, and tutorials to democratize data literacy within organizations.
+Technical Curriculum Development: Architecting and implementing comprehensive technical training curricula and upskilling programs to advance organizational capabilities in data science and engineering.
+
+Learning Management System (LMS) Proficiency: Experienced in the full administration and content strategy of enterprise-grade LMS platforms, including Moodle, Cornerstone OnDemand, and Docebo, to facilitate scalable learning.
+
+Technical Mentorship & Coaching: Providing strategic mentorship to junior data personnel on advanced engineering principles, robust model development lifecycles, and industry best practices in MLOps.
+
+Knowledge Democratization: Championing data literacy across functions by developing extensive documentation, leading technical workshops, and creating reusable educational assets.
+
 
 ---
 
