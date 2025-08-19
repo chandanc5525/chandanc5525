@@ -27,7 +27,7 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 *   🌐 **Consulting Philosophy:** Building intelligent systems that drive measurable business outcomes while fostering data literacy and technical capability across organizations
 *   🔧 **Unique Value Proposition:** Translating deep mechanical engineering first principles into sophisticated digital strategies that transform operations and create competitive advantage
 
-> *"Engineering the future, one algorithm at a time."*
+[![GitHub](https://img.shields.io/badge/GitHub-chandanc5525-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/chandanc5525) *"Engineering the future, one algorithm at a time."*
 
 ---
 
