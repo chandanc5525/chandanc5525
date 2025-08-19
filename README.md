@@ -31,6 +31,25 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 
 ---
 
+### 📊 Project & Learning Management
+
+**I excel at leading technical projects from ideation to delivery and fostering team growth through structured learning.**
+
+**Project Management:**
+![Agile](https://img.shields.io/badge/Agile-0D8E81?style=for-the-flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-flat&logo=scrum&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-flat&logo=confluence&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-00A4EF?style=for-the-flat&logo=microsoftproject&logoColor=white)
+
+**Learning & Development (L&D):**
+*   **Instructional Design:** Development of technical training curricula and upskilling programs for data and engineering teams.
+*   **LMS Expertise:** Administration and content management of Learning Management Systems (LMS) like **Moodle, Cornerstone OnDemand, Docebo**.
+*   **Mentorship:** Guiding junior data scientists and engineers on best practices in coding, model development, and deployment.
+*   **Knowledge Sharing:** Creating documentation, workshops, and tutorials to democratize data literacy within organizations.
+
+---
+
 ### ⚡ Tech Stack & Weaponry
 
 **🤖 AI / Machine Learning & Programming**
@@ -41,6 +60,14 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-flat&logo=opencv&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-flat&logo=mathworks&logoColor=white)
+
+**☁️ Modern Data Platform & ETL**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-flat&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-flat&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Expert-FF9900?style=for-the-flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-flat&logo=microsoftazure&logoColor=white)
 
 **📊 Dashboarding & Data Visualization**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-flat&logo=powerbi&logoColor=black)
@@ -58,7 +85,7 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ![JMP](https://img.shields.io/badge/JMP-FF6600?style=for-the-flat&logo=sas&logoColor=white)
 ![OriginPro](https://img.shields.io/badge/OriginPro-FF9E0B?style=for-the-flat)
 
-**🗄️ Databases & Data Engineering**
+**🗄️ Databases & Data Warehousing**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-flat&logo=oracle&logoColor=white)
@@ -78,3 +105,22 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-flat&logo=ansys&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-flat&logo=ros&logoColor=white)
 
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+**Open to collaborating on innovative projects and discussions.**
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40">](mailto:chaudhari.chandan22@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio-link-here.com)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=00BFFF&label=PROFILE+VISITORS" alt="Profile Views"/>
+</p>
