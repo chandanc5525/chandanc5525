@@ -22,10 +22,10 @@
 
 I am a **Multidisciplinary Engineer** operating at the convergence of the physical and digital worlds. My expertise lies in transforming complex mechanical and operational challenges into data-driven, intelligent solutions powered by AI and robust software architecture.
 
-*   🤖 **Core Domains:** Robotics, CAD/CAM, Predictive Maintenance, Digital Twins.
-*   🧠 **AI/ML Focus:** End-to-end model lifecycle management, from research and training to scalable deployment and CI/CD automation.
-*   🌐 **Philosophy:** I believe in building systems that are not only intelligent but also reliable, efficient, and seamlessly integrated into real-world workflows.
-*   🔧 **Unique Edge:** The ability to deeply understand a problem from its mechanical first principles and then architect a sophisticated digital solution.
+*   🎯 **Strategic Focus:** Data & AI Strategy, Business Transformation, Digital Twin Implementation, Organizational Upskilling
+*   🧠 **Technical Leadership:** End-to-end AI solution lifecycle management, from strategic conception to scalable deployment and CI/CD automation
+*   🌐 **Consulting Philosophy:** Building intelligent systems that drive measurable business outcomes while fostering data literacy and technical capability across organizations
+*   🔧 **Unique Value Proposition:** Translating deep mechanical engineering first principles into sophisticated digital strategies that transform operations and create competitive advantage
 
 > *"Engineering the future, one algorithm at a time."*
 
