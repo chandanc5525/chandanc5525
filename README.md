@@ -32,25 +32,21 @@ I am a **Multidisciplinary Engineer** operating at the convergence of the physic
 ---
 
 ### 📊 Project & Learning Management
-Adept at orchestrating the full project lifecycle for complex technical initiatives, from strategic conception to successful deployment, while simultaneously cultivating high-performing teams through targeted learning and development programs.
 
-Project Management Methodologies & Tools:
-https://img.shields.io/badge/Agile-0D8E81?style=for-the-flat&logo=agile&logoColor=white
-https://img.shields.io/badge/Scrum-6DB33F?style=for-the-flat&logo=scrum&logoColor=white
-https://img.shields.io/badge/JIRA-0052CC?style=for-the-flat&logo=jira&logoColor=white
-https://img.shields.io/badge/Confluence-172B4D?style=for-the-flat&logo=confluence&logoColor=white
-https://img.shields.io/badge/MS_Project-00A4EF?style=for-the-flat&logo=microsoftproject&logoColor=white
+**Adept at orchestrating the full project lifecycle for complex technical initiatives, from strategic conception to successful deployment, while simultaneously cultivating high-performing teams through targeted learning and development programs.**
 
-Learning & Development (L&D) Leadership:
+**Project Management Methodologies & Tools:**
+![Agile](https://img.shields.io/badge/Agile-0D8E81?style=for-the-flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-flat&logo=scrum&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-flat&logo=confluence&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-00A4EF?style=for-the-flat&logo=microsoftproject&logoColor=white)
 
-Technical Curriculum Development: Architecting and implementing comprehensive technical training curricula and upskilling programs to advance organizational capabilities in data science and engineering.
-
-Learning Management System (LMS) Proficiency: Experienced in the full administration and content strategy of enterprise-grade LMS platforms, including Moodle, Cornerstone OnDemand, and Docebo, to facilitate scalable learning.
-
-Technical Mentorship & Coaching: Providing strategic mentorship to junior data personnel on advanced engineering principles, robust model development lifecycles, and industry best practices in MLOps.
-
-Knowledge Democratization: Championing data literacy across functions by developing extensive documentation, leading technical workshops, and creating reusable educational assets.
-
+**Learning & Development (L&D) Leadership:**
+*   **Technical Curriculum Development:** Architecting and implementing comprehensive technical training curricula and upskilling programs to advance organizational capabilities in data science and engineering.
+*   **Learning Management System (LMS) Proficiency:** Experienced in the full administration and content strategy of enterprise-grade LMS platforms, including **Moodle, Cornerstone OnDemand, and Docebo**, to facilitate scalable learning.
+*   **Technical Mentorship & Coaching:** Providing strategic mentorship to junior data personnel on advanced engineering principles, robust model development lifecycles, and industry best practices in MLOps.
+*   **Knowledge Democratization:** Championing data literacy across functions by developing extensive documentation, leading technical workshops, and creating reusable educational assets.
 
 ---
 
@@ -110,21 +106,3 @@ Knowledge Democratization: Championing data literacy across functions by develop
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-flat&logo=ros&logoColor=white)
 
 ---
-
-### 📫 Let's Connect
-
-<div align="center">
-
-**Open to collaborating on innovative projects and discussions.**
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40">](mailto:chaudhari.chandan22@gmail.com)
-[<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio-link-here.com)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanc5525&style=flat-square&color=00BFFF&label=PROFILE+VISITORS" alt="Profile Views"/>
-</p>
