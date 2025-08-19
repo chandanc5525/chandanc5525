@@ -20,16 +20,14 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 
-I am a **Multidisciplinary Engineer** operating at the convergence of the physical and digital worlds. My expertise lies in transforming complex mechanical and operational challenges into data-driven, intelligent solutions powered by AI and robust software architecture.
+Strategic Data & AI Leader and Business Transformation Mentor with a proven 13-year track record of designing and executing enterprise-wide digital initiatives. Specializes in translating complex business needs into scalable Data and AI strategies, resulting in enhanced operational efficiency, revenue growth, and market leadership. A cornerstone of my approach is building high-performing teams through bespoke L&D programs that ensure strategic alignment and long-term capability building. Expert in mentoring cross-functional leaders to drive adoption and maximize ROI on technology investments.
 
 *   🎯 **Strategic Focus:** Data & AI Strategy, Business Transformation, Digital Twin Implementation, Organizational Upskilling
 *   🧠 **Technical Leadership:** End-to-end AI solution lifecycle management, from strategic conception to scalable deployment and CI/CD automation
 *   🌐 **Consulting Philosophy:** Building intelligent systems that drive measurable business outcomes while fostering data literacy and technical capability across organizations
 *   🔧 **Unique Value Proposition:** Translating deep mechanical engineering first principles into sophisticated digital strategies that transform operations and create competitive advantage
 
-<div align="center" style="border: 2px solid #3FB950; border-radius: 10px; padding: 15px; background-color: #0D1117; margin: 20px;">
-  <strong><em>⚙️ Engineering the future, one algorithm at a time.</em></strong>
-</div>
+
 ---
 
 ### 📊 Project & Learning Management
