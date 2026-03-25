@@ -20,7 +20,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 
-Strategic Data & AI Leader and Business Transformation Mentor with a proven 13-year track record of designing and executing enterprise-wide digital initiatives. Specializes in translating complex business needs into scalable Data and AI strategies, resulting in enhanced operational efficiency, revenue growth, and market leadership. A cornerstone of my approach is building high-performing teams through bespoke L&D programs that ensure strategic alignment and long-term capability building. Expert in mentoring cross-functional leaders to drive adoption and maximize ROI on technology investments.
+Strategic Data & AI Leader and Business Transformation Mentor with a proven 13+ year track record of designing and executing enterprise-wide digital initiatives. Specializes in translating complex business needs into scalable Data and AI strategies, resulting in enhanced operational efficiency, revenue growth, and market leadership. A cornerstone of my approach is building high-performing teams through bespoke L&D programs that ensure strategic alignment and long-term capability building. Expert in mentoring cross-functional leaders to drive adoption and maximize ROI on technology investments.
 
 *   🎯 **Strategic Focus:** Data & AI Strategy, Business Transformation, Digital Twin Implementation, Organizational Upskilling
 *   🧠 **Technical Leadership:** End-to-end AI solution lifecycle management, from strategic conception to scalable deployment and CI/CD automation
