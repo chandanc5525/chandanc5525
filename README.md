@@ -105,7 +105,7 @@ Strategic Data & AI Leader and Business Transformation Mentor with a proven 13+ 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-flat&logo=ros&logoColor=white)
 
 ---
-# chandan-aiops libray
+# chandan-aiops
 ```
 pip install chandan-aiops
 
