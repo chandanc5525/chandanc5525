@@ -105,3 +105,23 @@ Strategic Data & AI Leader and Business Transformation Mentor with a proven 13+ 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-flat&logo=ros&logoColor=white)
 
 ---
+# chandan-aiops libray
+```
+pip install chandan-aiops
+
+```
+---
+```
+chandan-aiops is an enterprise-ready MLOps automation platform that standardizes and accelerates the entire machine learning lifecycle. It provides a CLI-driven framework for generating production-grade AI project templates with built-in data versioning, experiment tracking, and pipeline orchestration.
+This tool transforms scattered ML code into organized, reproducible, and deployable projects by enforcing industry best practices from day one. It's designed for teams that value consistency, collaboration, and production readiness in their machine learning workflows.
+chandan-aiops is designed for:
+
+- Machine Learning Engineers
+- Data Scientists
+- MLOps & Platform Engineers
+- Technical team leads managing ML projects
+- Educators teaching production ML workflows
+
+link: https://pypi.org/project/chandan-aiops/
+```
+---
