@@ -29,7 +29,7 @@
 
 ## About Me
 
-I am a **Data & AI Strategy Consultant, Business Transformation Mentor, and Learning & Development Professional** with **13+ years of experience** working at the intersection of engineering, technology, data, AI, and organizational capability building.
+I am a **Generative & Agentic AI Expert | Data Science Consultant | Corporate Mentor | Business & Digital Transformation Consultant** with **13+ years of experience** working at the intersection of engineering, technology, data, AI, and organizational capability building.
 
 My work focuses on translating complex business and engineering challenges into **scalable Data & AI strategies, digital transformation initiatives, and production-ready technology solutions**.
 
