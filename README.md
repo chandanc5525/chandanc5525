@@ -103,12 +103,12 @@ I focus on connecting technology initiatives with operational and business outco
 I build technical capability and data literacy across organizations.
 
 - Technical curriculum design
-- Data & AI upskilling
+- Business Consultation
 - Technical mentoring
-- Leadership development
+- Curriculum Design and Training and Need Analysis 
 - Knowledge management
 - LMS strategy & administration
-- Technical workshops
+- Technical Consultings
 
 </td>
 
