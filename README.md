@@ -1,16 +1,16 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=700&lines=Chandan+D.+Chaudhari;Data+%26+AI+Strategy+Consultant;Business+Transformation+Mentor;AI+%26+MLOps+Leader;Learning+%26+Development+Professional" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
+<h3 align="left">
   Transforming Business Challenges into Data, AI & Digital Solutions
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*eTg3araLLlU1QL6C6hJg5w.gif" alt="Data Science & AI" width="700"/>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/chandan-chaudhari-7460215a/">
     <img src="https://img.shields.io/badge/LinkedIn-Chandan%20Chaudhari-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -254,6 +254,8 @@ I bring together **technical delivery, project management, and capability develo
 ### Enterprise MLOps Automation & Project Scaffolding Platform
 
 **`chandan-aiops`** is an enterprise-ready MLOps automation platform designed to standardize and accelerate the complete machine learning lifecycle.
+
+https://pypi.org/project/chandan-aiops/
 
 ```bash
 pip install chandan-aiops
