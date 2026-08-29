@@ -29,11 +29,9 @@
 
 ## About Me
 
-I am a **Generative & Agentic AI Expert | Data Science Consultant | Corporate Mentor | Business & Digital Transformation Consultant** with **14+ years of experience** working at the intersection of engineering, technology, data, AI, and organizational capability building.
+**Generative & Agentic AI Expert, Data Science Consultant, and Business & Digital Transformation leader** with **14+ years of experience** at the intersection of engineering, data, AI, and organizational capability building.
 
-My work focuses on translating complex business and engineering challenges into **scalable Data & AI strategies, digital transformation initiatives, and production-ready technology solutions**.
-
-I combine engineering fundamentals with modern Data, AI, Cloud, MLOps, and digital technologies to help organizations move from:
+Specializes in turning complex business and engineering challenges into scalable AI strategies, digital transformation initiatives, and production-ready technology — moving organizations from:
 
 **Business Problem → Data → Intelligence → Automation → Business Value**
 
@@ -66,7 +64,7 @@ I combine engineering fundamentals with modern Data, AI, Cloud, MLOps, and digit
 
 ### Data & AI Strategy
 
-I help organizations identify and prioritize AI opportunities, design data strategies, and translate emerging technologies into measurable business outcomes.
+Helps organizations identify and prioritize AI opportunities, design data strategies, and translate emerging technologies into measurable business outcomes.
 
 - AI strategy & roadmap
 - Data strategy
@@ -82,7 +80,7 @@ I help organizations identify and prioritize AI opportunities, design data strat
 
 ### Business Transformation
 
-I focus on connecting technology initiatives with operational and business outcomes.
+Connects technology initiatives with operational and business outcomes.
 
 - Process transformation
 - Digital engineering
@@ -100,7 +98,7 @@ I focus on connecting technology initiatives with operational and business outco
 
 ### Learning & Development
 
-I build technical capability and data literacy across organizations.
+Builds technical capability and data literacy across organizations.
 
 - Technical curriculum design
 - Business Consultation
@@ -116,7 +114,7 @@ I build technical capability and data literacy across organizations.
 
 ### AI Engineering & MLOps
 
-I also build and architect production-oriented ML systems.
+Also builds and architects production-oriented ML systems.
 
 - End-to-end ML lifecycle
 - MLOps architecture
@@ -217,7 +215,7 @@ I also build and architect production-oriented ML systems.
 
 # Project & Learning Management
 
-I bring together **technical delivery, project management, and capability development** to ensure technology initiatives create sustainable organizational impact.
+Brings together **technical delivery, project management, and capability development** to ensure technology initiatives create sustainable organizational impact.
 
 ### Project Management
 
