@@ -253,11 +253,6 @@ Brings together **technical delivery, project management, and capability develop
 
 <p align="center"><sub>↑ Demo preview — shown so the section isn't blank while your own graph is being set up. This is <b>not</b> your actual contribution data yet.</sub></p>
 
-> This is a rotating, animated 3D rendering of a GitHub contribution calendar, generated via [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib).
->
-> **Note:** GitHub strips `<script>`/`<iframe>` tags from README files, so true interactive WebGL/Three.js scenes can't render here — this animated SVG is the closest working equivalent.
->
-> **To replace the demo above with your own live, auto-updating graph:** complete the one-time GitHub Actions setup in your `chandanc5525/chandanc5525` repository (steps below), then change the image `src` above from the demo URL to `./profile-3d-contrib/profile-night-rainbow.svg`.
 
 ---
 
