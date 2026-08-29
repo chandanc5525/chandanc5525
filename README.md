@@ -251,8 +251,7 @@ Brings together **technical delivery, project management, and capability develop
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph (demo preview)" />
 </p>
 
-<p align="center"><sub>↑ Demo preview — shown so the section isn't blank while your own graph is being set up. This is <b>not</b> your actual contribution data yet.</sub></p>
-
+<p align="center">
 
 ---
 
