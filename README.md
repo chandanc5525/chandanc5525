@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=700&lines=Chandan+D.+Chaudhari;Data+%26+AI+Strategy+Consultant;Business+Transformation+Mentor;AI+%26+MLOps+Leader;Learning+%26+Development+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=700&lines=Chandan+D.+Chaudhari;Data+%26+Generative & Agentic AI Expert | Data Science Consultant | Corporate Mentor | Business & Digital Transformation Consultant" alt="Typing SVG" />
 </h1>
 
 <h3 align="left">
