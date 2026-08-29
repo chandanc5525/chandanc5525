@@ -245,6 +245,18 @@ Brings together **technical delivery, project management, and capability develop
 
 ---
 
+# GitHub Activity — 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph" />
+</p>
+
+> This is a rotating, animated 3D rendering of the GitHub contribution calendar below, auto-generated once a day via GitHub Actions using [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib).
+>
+> **Note:** GitHub strips `<script>`/`<iframe>` tags from README files, so true interactive WebGL/Three.js scenes can't render here — this is the closest working equivalent: a real 3D scene pre-rendered into an animated SVG. The image above won't display until the one-time setup below is completed in the `chandanc5525/chandanc5525` repository.
+
+---
+
 # Featured Project
 
 ## chandan-aiops
